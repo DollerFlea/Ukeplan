@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+  }
+  body {
+    background: #3d3d3d;
+  }
+  /*  {}  */
+  #head1{
+    font-size: 60px;
+    color: #fefb41;
+    margin-top: 15px;
+    text-shadow: 2px 2px 7px black;
+  }
+  
+  #up-p2{
+    height: 350px;
+    margin-top: 25px;
+  }
+  .special-days{
+    color: #fdc700;
+  }
+  
+  #extra-info {
+    font-size: 23px;
+  }
+  
+  .special-days li {
+    color: #db5757d2;
+    margin-top: 10px;
+  }
+
+  #mandag {
+      margin-top: 15px;
+  }
+
+  #also-need-margin {
+      margin-top: 20px;
+  }
+
+
+#mandag {
+    color: red;
+    margin-top: 10px;
+}
+#tirsdag {color: orange;}
+#onsdag {color: yellow;}
+#torsdag {color: green;}
+#fredag {color: rgb(0, 140, 255);}
+
+#andre-klasser {
+  text-decoration: none;
+  font-size: 15px;
+  color: whitesmoke;
+  position: relative;
+  margin-left: 15px;
+  top: 15px;
+  text-decoration: underline;
+  text-decoration-color: rgb(212, 229, 234);
+  padding: 30px;
+}
+
+#andre-klasser:hover {
+  color: grey;
+  text-decoration-color: grey;
+}
